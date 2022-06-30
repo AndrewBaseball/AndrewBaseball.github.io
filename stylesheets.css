@@ -1,8 +1,12 @@
 h1 {
-    color:darkseagreen;
+    color:rgb(100, 196, 231);
     border: 5px solid rgb(208, 124, 46);
+    font-size: larger; 
 }
 p {
     font-family: courier new;
+}
+.navbar {
+    background-color: rgb(163, 214, 163);
 }
 
